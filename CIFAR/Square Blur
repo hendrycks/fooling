@@ -1,0 +1,36 @@
+Without square blur
+L1 mean: 23.4041
+L2 mean: 0.426601
+LInf mean: 0.0810871
+
+With square blur
+L1 mean: 27.7743
+L2 mean: 0.573706
+LInf mean: 0.0928057
+
+
+With eigenvector variance constraints
+Number of fooling examples collected: 8
+L1 mean: 13.4723
+L2 mean: 0.130793
+LInf mean: 0.0432527
+
+
+With kl std/1.
+Number of fooling examples collected: 83
+L1 mean: 32.2647
+L2 mean: 1.37957
+LInf mean: 0.103217
+
+With kl std/2.
+Number of fooling examples collected: 63
+L1 mean: 30.866
+L2 mean: 1.07564
+LInf mean: 0.101034
+
+With kl std/4
+Number of fooling examples collected: 70
+L1 mean: 44.236
+L2 mean: 2.81811
+LInf mean: 0.153084
+
